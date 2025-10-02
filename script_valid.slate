@@ -1,0 +1,3 @@
+ls /etc
+cd /var
+conf-dump
